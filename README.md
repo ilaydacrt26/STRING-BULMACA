@@ -1,2 +1,2 @@
-# STRING-BULMACA
+# STRING_BULMACA
 Matrisler Yoluyla Bulmaca
